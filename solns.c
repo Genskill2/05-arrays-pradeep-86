@@ -95,3 +95,4 @@ int factors(int num,int arr[]){
 	}
 	return count;
 }
+
