@@ -33,6 +33,7 @@ float average(int x[],int y)
        return sum/y;
 }
 
+
 int mode(int x[],int y)
 {
        int tol_max=0,max_val;
